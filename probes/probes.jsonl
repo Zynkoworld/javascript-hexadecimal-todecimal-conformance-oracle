@@ -1,0 +1,10 @@
+{"input": "1", "expect": 1, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "c", "expect": 12, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "10", "expect": 16, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "af", "expect": 175, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "100", "expect": 256, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "19ace", "expect": 105166, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "carrot", "expect": 0, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "000000", "expect": 0, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "ffffff", "expect": 16777215, "raised": false, "task": "hexadecimal", "lang": "javascript"}
+{"input": "ffff00", "expect": 16776960, "raised": false, "task": "hexadecimal", "lang": "javascript"}
